@@ -1,4 +1,4 @@
 # Заголовок
 Мой первый сайт
 
-[Урок 12](file:///C:/Users/user/Desktop/Project/src/index.html "Сайт урок 12")
+[Урок 12](https://gachiweb.github.io/lesson_12/ "Сайт урок 12")
